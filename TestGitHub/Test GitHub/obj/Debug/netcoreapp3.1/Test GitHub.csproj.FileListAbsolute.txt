@@ -1,0 +1,20 @@
+C:\Projects\Test\TestGitHub\Test GitHub\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Test\TestGitHub\Test GitHub\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Test\TestGitHub\Test GitHub\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\Test\TestGitHub\Test GitHub\bin\Debug\netcoreapp3.1\Test GitHub.exe
+C:\Projects\Test\TestGitHub\Test GitHub\bin\Debug\netcoreapp3.1\Test GitHub.deps.json
+C:\Projects\Test\TestGitHub\Test GitHub\bin\Debug\netcoreapp3.1\Test GitHub.runtimeconfig.json
+C:\Projects\Test\TestGitHub\Test GitHub\bin\Debug\netcoreapp3.1\Test GitHub.runtimeconfig.dev.json
+C:\Projects\Test\TestGitHub\Test GitHub\bin\Debug\netcoreapp3.1\Test GitHub.dll
+C:\Projects\Test\TestGitHub\Test GitHub\bin\Debug\netcoreapp3.1\Test GitHub.pdb
+C:\Projects\Test\TestGitHub\Test GitHub\obj\Debug\netcoreapp3.1\Test GitHub.csprojAssemblyReference.cache
+C:\Projects\Test\TestGitHub\Test GitHub\obj\Debug\netcoreapp3.1\Test GitHub.AssemblyInfoInputs.cache
+C:\Projects\Test\TestGitHub\Test GitHub\obj\Debug\netcoreapp3.1\Test GitHub.AssemblyInfo.cs
+C:\Projects\Test\TestGitHub\Test GitHub\obj\Debug\netcoreapp3.1\Test GitHub.csproj.CoreCompileInputs.cache
+C:\Projects\Test\TestGitHub\Test GitHub\obj\Debug\netcoreapp3.1\Test GitHub.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Test\TestGitHub\Test GitHub\obj\Debug\netcoreapp3.1\Test GitHub.RazorTargetAssemblyInfo.cache
+C:\Projects\Test\TestGitHub\Test GitHub\obj\Debug\netcoreapp3.1\staticwebassets\Test GitHub.StaticWebAssets.Manifest.cache
+C:\Projects\Test\TestGitHub\Test GitHub\obj\Debug\netcoreapp3.1\staticwebassets\Test GitHub.StaticWebAssets.xml
+C:\Projects\Test\TestGitHub\Test GitHub\obj\Debug\netcoreapp3.1\Test GitHub.dll
+C:\Projects\Test\TestGitHub\Test GitHub\obj\Debug\netcoreapp3.1\Test GitHub.pdb
+C:\Projects\Test\TestGitHub\Test GitHub\obj\Debug\netcoreapp3.1\Test GitHub.genruntimeconfig.cache
